@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Luan Afonso 👋 ![](https://komarev.com/ghpvc/?username=luanAfons0)
+## Olá! Eu sou o Luan Afonso 👋
 
 #### Apaixonado por tecnologia, estudante focado em aprender e melhorar cada dia mais meu ambiente de trabalho! 🚀
 
