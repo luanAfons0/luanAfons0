@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+Luan+Afonso;I'm+a+Full+Stack+developer;Be+Welcome!)](https://git.io/typing-svg)
 
-I'm a **Junior Full Stack Developer** focused on **TypeScript** and **C#**, currently studying **Systems Analysis and Development** at [FATEC Taquaritinga](https://www.fatectq.edu.br/).
-
+I'm a **Junior Full Stack Developer** focused on **TypeScript** and **C#**, currently studying **Systems Analysis and Development**.
 I'm passionate about web development, clean code, and constantly improving as a tech professional.
 
 ---
