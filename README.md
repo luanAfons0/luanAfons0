@@ -20,7 +20,7 @@ I'm passionate about web development, clean code, and constantly improving as a 
 
 ### 📈 GitHub Stats
 
-![Main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanAfons0&layout=compact&theme=react&hide=css,ejs,scss,html,dockerfile,shell,hack)
+![Main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanAfons0&layout=compact&theme=react&hide=css,ejs,scss,html,dockerfile,shell,hack,javascript)
 
 ![Luan Afonso GitHub stats](https://github-readme-stats.vercel.app/api?username=luanAfons0&show_icons=true&theme=react)
 
